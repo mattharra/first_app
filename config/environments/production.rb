@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Acgs::Application.configure do
+=======
+FirstApp::Application.configure do
+>>>>>>> fef95f82bcda80c7749eaf95e31fbee2e7c177b1
   # Settings specified here will take precedence over those in config/application.rb
 
   # Code is not reloaded between requests

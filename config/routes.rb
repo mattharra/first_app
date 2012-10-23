@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Acgs::Application.routes.draw do
+=======
+FirstApp::Application.routes.draw do
+>>>>>>> fef95f82bcda80c7749eaf95e31fbee2e7c177b1
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
